@@ -1,0 +1,4 @@
+http://localhost:8080/activiti/model/create?name=test&key=test&description=testModel
+
+
+http://localhost:8080/model/create?name=test&key=test&description=testModel
